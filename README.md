@@ -4,7 +4,8 @@ We will leverage on Symfony’s generators to quickly code a simple user authent
 
 
 ## Youtube video
-![youtube](https://i.ytimg.com/an_webp/q7iCwePN1K8/mqdefault_6s.webp?du=3000&sqp=CPf4lPcF&rs=AOn4CLBUiIezuueHGyqEAZpUaI5nXfIOsg)
+[![youtube](https://i.ytimg.com/an_webp/q7iCwePN1K8/mqdefault_6s.webp?du=3000&sqp=CPf4lPcF&rs=AOn4CLBUiIezuueHGyqEAZpUaI5nXfIOsg)](https://www.youtube.com/watch?v=q7iCwePN1K8 "Symfony auth and crud")
+
 
 ## GitHub repository
 https://github.com/xdth/symfony5_auth_crud
